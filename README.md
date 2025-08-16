@@ -5,8 +5,3 @@ This datapack was adapted from [hunterkyou](https://github.com/hunterkyou)'s [da
 Releases: <https://github.com/ht-chuang/Liars_Bar/releases>
 
 Wiki: <https://github.com/ht-chuang/Liars_Bar/wiki>
-
-Set up script:
-```bash
-python3 setup.py <your world save path> <release tag (optional)>
-```
