@@ -1,13 +1,12 @@
-# 骗子酒馆数据包~
+# Liar's Bar Datapack
 
-下载地址：<https://github.com/hunterkyou/JIJIFUJIJI_Liars_Bar/releases>
+This datapack was adapted from [hunterkyou](https://github.com/hunterkyou)'s [datapack](https://github.com/hunterkyou/JIJIFUJIJI_Liars_Bar)
 
-维基（关于下载、安装、规则的教程）：<https://github.com/hunterkyou/JIJIFUJIJI_Liars_Bar/wiki/Liars-Bar-for-Kyou>
+Releases: <https://github.com/ht-chuang/Liars_Bar/releases>
 
-一键脚本：setup.py
+Wiki: <https://github.com/ht-chuang/Liars_Bar/wiki>
 
-使用方法(确保你拥有python3环境)：
-
+Set up script:
 ```bash
-python3 setup.py <你的存档路径> <release tag(可选)>
+python3 setup.py <your world save path> <release tag (optional)>
 ```
